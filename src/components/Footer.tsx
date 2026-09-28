@@ -42,7 +42,7 @@ const Footer = () => {
             bgClip="text"
             fontWeight="bold"
           >
-            © 2024 Ciobanu Cristian
+            © 2026 Ciobanu Cristian
           </Text>
 
           <Stack direction="row" spacing={4}>

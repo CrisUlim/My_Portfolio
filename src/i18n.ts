@@ -15,17 +15,17 @@ const resources = {
 
       // Home Page
       greeting: "Hi, I'm Cristian",
-      role: 'Backend Developer & Machine Learning Engineer',
-      description: 'Crafting intelligent solutions through code. Specializing in Python, Django, and Machine Learning. Currently pursuing Computer Science at ULIM University.',
+      role: 'ML & Backend Developer | UI/UX Designer',
+      description: 'Crafting intelligent solutions through code and design. Specializing in Python, Django, Machine Learning, Backend Development, and UI/UX Design. Currently teaching Operating Systems and Computer Architecture, while developing intelligent and user-focused software solutions.',
       viewProjects: 'View Projects',
       connectWithMe: 'Connect with Me',
-      currentlyStudying: '🎓 Currently studying at ULIM University (2021-2025)',
+      currentlyStudying: '🎓 B.Sc. in Computer Science — ULIM University (2021–2025)',
       googleCertified: '🏆 Google UI/UX Design Certified',
       healthCertified: '🌟 Health Innovation Zone Certificate Holder',
 
       // About Page
       aboutMe: 'About Me',
-      aboutDescription: "I'm a passionate Backend Developer and Machine Learning Engineer with a strong foundation in Python and its ecosystem. Currently pursuing my Computer Science degree at ULIM University, I specialize in building robust backend systems and developing intelligent solutions using machine learning.",
+      aboutDescription: "I'm a passionate Backend Developer and Machine Learning Engineer specializing in Python, Django, and intelligent software solutions. I also work in UI/UX Design and currently teach Operating Systems and Computer Architecture, combining technical development with practical computer science education.",
       keyAccomplishments: 'Key Accomplishments',
       technicalSkills: 'Technical Skills',
       languages: 'Languages',
@@ -144,17 +144,17 @@ const resources = {
 
       // Home Page
       greeting: 'Salut, sunt Cristian',
-      role: 'Developer Backend & Inginer Machine Learning',
-      description: 'Creez soluții inteligente prin cod. Specializat în Python, Django și Machine Learning. În prezent studiez Informatica la Universitatea ULIM.',
+      role: 'ML & Backend Developer | UI/UX Designer',
+      description: 'Creez soluții inteligente prin cod și design. Specializat în Python, Django, Machine Learning, Dezvoltare Backend și Design UI/UX. În prezent studiez Informatica la Universitatea ULIM.',
       viewProjects: 'Vezi Proiectele',
       connectWithMe: 'Conectează-te cu Mine',
-      currentlyStudying: '🎓 În prezent studiez la Universitatea ULIM (2021-2025)',
+      currentlyStudying: '🎓 B.Sc. in Computer Science — ULIM University (2021–2025)',
       googleCertified: '🏆 Certificat Google UI/UX Design',
       healthCertified: '🌟 Certificat Health Innovation Zone',
 
       // About Page
       aboutMe: 'Despre Mine',
-      aboutDescription: 'Sunt un Developer Backend și Inginer Machine Learning pasionat, cu o bază solidă în Python și ecosistemul său. În prezent urmez studiile în Informatică la Universitatea ULIM, specializându-mă în construirea sistemelor backend robuste și dezvoltarea soluțiilor inteligente folosind machine learning.',
+      aboutDescription: 'Sunt un Backend Developer și Machine Learning Engineer pasionat, cu o bază solidă în Python și ecosistemul său. Mă specializez în dezvoltarea sistemelor backend robuste, crearea soluțiilor inteligente bazate pe Machine Learning și proiectarea unor experiențe UI/UX intuitive și eficiente. În prezent, predau Sisteme de Operare și Arhitectura Calculatoarelor, combinând experiența practică în dezvoltare software cu o înțelegere solidă a fundamentelor informaticii.',
       keyAccomplishments: 'Realizări Cheie',
       technicalSkills: 'Abilități Tehnice',
       languages: 'Limbi Străine',
@@ -273,11 +273,11 @@ const resources = {
 
       // Home Page
       greeting: 'Привет, я Кристиан',
-      role: 'Backend Разработчик & Инженер Machine Learning',
-      description: 'Создаю интеллектуальные решения с помощью кода. Специализируюсь на Python, Django и Machine Learning. В настоящее время изучаю информатику в университете ULIM.',
+      role: 'ML & Backend Developer | UI/UX Designer',
+      description: 'Создаю интеллектуальные решения с помощью кода и дизайна. Специализируюсь на Python, Django, Machine Learning, Backend Development и UI/UX Design. В настоящее время изучаю информатику в университете ULIM.',
       viewProjects: 'Смотреть Проекты',
       connectWithMe: 'Связаться со Мной',
-      currentlyStudying: '🎓 Сейчас учусь в университете ULIM (2021-2025)',
+      currentlyStudying: '🎓 Бакалавр информатики — Университет ULIM (2021–2025)',
       googleCertified: '🏆 Сертифицирован Google UI/UX Design',
       healthCertified: '🌟 Сертификат Health Innovation Zone',
 
